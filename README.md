@@ -2,4 +2,5 @@ Visual_odometry
 ===============
 
 summer project @ eclub iitk
-establised serial communication
+Establised serial communication
+The file usart2 was used to establish serial communication.
